@@ -1,0 +1,7 @@
+Commands learnt in git
+
+	clone-copy repository
+	checkout-checkout any commit to be latest verison 
+	log-history of version
+	diff-difference between two versions
+	
